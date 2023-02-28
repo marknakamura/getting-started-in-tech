@@ -5,6 +5,8 @@ So you've made it to this repository - either I've shared this with you or someo
 
 What is this repo?  This is designed to contain resources to begin learning technical skills.
 
+What this repo is not?  It is not a walkthrough or step-by-step instruction on how to perform every task.  The focus is to learn and develop good habits (like Googling for the answer :) ).
+
 Maybe you don't know if you want to be Blue Team or Red Team or Purple Team.  Maybe you don't know if you want to be a SOC Analyst, Incident Responder, Digital Forensicator, Penetration Tester, Vulnerability Analyst, Web App Security Tester, etc.
 
 **That's ok!**
