@@ -1,5 +1,5 @@
 # Getting Started in Tech
-So you've made it this repository - either I've shared this with you or someone else has shared this with you or maybe you found this via the Googles.
+So you've made it to this repository - either I've shared this with you or someone else has shared this with you or maybe you found this via the Googles.
 
 **Either way, I'm glad you're here!**
 
