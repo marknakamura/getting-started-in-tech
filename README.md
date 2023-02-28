@@ -1,6 +1,4 @@
 # Getting Started in Tech
-technical resources for someone to get started learning technical things
-
 So you've made it this repository - either I've shared this with you or someone else has shared this with you or maybe you found this via the Googles.
 
 **Either way, I'm glad you're here!**
