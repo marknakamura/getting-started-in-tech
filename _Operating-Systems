@@ -31,6 +31,18 @@ https://www.microsoft.com/software-download/windows11/
 **Windows 10**
 https://www.microsoft.com/en-us/software-download/windows10
 
+**Flare**
+Windows 10, many tools related to malware analysis
+https://github.com/mandiant/flare-vm
+
+**Threat Pursuit**
+Windows 10, many tools related to Threat Hunting & Incident Response
+https://github.com/mandiant/ThreatPursuit-VM
+
+**Commando**
+Windows 10, many tools for Red Team
+https://github.com/mandiant/commando-vm
+
 **Image List Provided by VirtualBox**
 https://www.osboxes.org/virtualbox-images/
 
