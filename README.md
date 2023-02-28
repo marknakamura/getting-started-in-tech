@@ -11,4 +11,6 @@ Maybe you don't know if you want to be Blue Team or Red Team or Purple Team.  Ma
 
 Here's some places where you can start learning technical skills such as coding, scripting, virtual machines, etc.
 
+When it comes to cost, my goal is to share resources that are free or cheap.  Learning doesn't have to be expensive!
+
 *Disclaimer: the resources I'm sharing are not my own and I'm not claiming any credit for them - simply sharing them so others can make use of them :)*
