@@ -13,4 +13,6 @@ Here's some places where you can start learning technical skills such as coding,
 
 When it comes to cost, my goal is to share resources that are free or cheap.  Learning doesn't have to be expensive!
 
+I highly recommend to start with the Virtual Machines section!
+
 *Disclaimer: the resources I'm sharing are not my own and I'm not claiming any credit for them - simply sharing them so others can make use of them :)*
