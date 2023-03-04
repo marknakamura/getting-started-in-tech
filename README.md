@@ -15,6 +15,8 @@ Here's some places where you can start learning technical skills such as coding,
 
 When it comes to cost, my goal is to share resources that are free or cheap.  Learning doesn't have to be expensive!
 
-I highly recommend to start with the Documentation section!
+This repo is both structured and un-structured - I mean this in the sense that when the names of the sections have numbers in them, I put them in this order because it makes the most sense to me.  Once the "numbered" sections are completed, then start looking at the non-numbered sections.  For the non-numbered sections, you can do them as it makes sense to you and as you please.
+
+(If it was me, and I could go back in time - after I did the numbered sections, I would start with Linux > Coding > Scripting > Education)
 
 *Disclaimer: the resources I'm sharing are not my own and I'm not claiming any credit for them - simply sharing them so others can make use of them :)*
