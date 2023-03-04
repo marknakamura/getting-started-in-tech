@@ -7,7 +7,9 @@ Now that you have the capability to build VMs, get yourself set up with an OS!  
 
 You could install Windows, sure.  But you know what's more fun?  Installing something you've never used before, like Linux!
 
-Here's a list of OS's that you can test it out, and absolutely this is not an all inclusive list.
+Here's a list of OS's that you can test out, and absolutely this is not an all inclusive list.  As you can see, there are MANY flavors of Linux :) - enjoy trying them all!
+
+(If you don't know where to start, I recommend starting with Kali, Pop, or CentOS)
 
 **Kali Linux**
 Popular Linux with many tools related for penetration testing
@@ -20,6 +22,18 @@ https://ubuntu.com/#download
 **Mint**
 Popular for every day use, visually similar to Windows
 https://www.linuxmint.com/download.php
+
+**Pop OS**
+Popular OS
+https://pop.system76.com/
+
+**CentOS**
+Free version of Red Hat Enterprise Linux (RHEL), great to build experience with Enterprise operating systems
+https://www.centos.org/
+
+**RHEL 7 / 8 ****
+Free, requires registration to Red Hat Developers network - allows you to gain Enterprise Red Hat experience, including things like downloading RHEL and connecting a server to the Red Hat Satellite
+https://developers.redhat.com/
 
 **SIFT**
 Many tools related to Digital Forensics / Incident Response (DFIR)

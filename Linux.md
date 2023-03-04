@@ -7,6 +7,12 @@ If you were to ask me how to learn Linux, my answer would be two-fold.  One - st
 
 By daily driving (in other words, using it as your main OS instead of Windows), you will be forced to learn how to use it.  Updates, software installation, drivers, troubleshooting, etc.
 
+Here's a resource that you can use to help you on your Linux journey :)
+
+**Linux Journey**
+Free, many easily digestible lessons on how to learn Linux
+https://linuxjourney.com/
+
 Secondly, people have already made challenges that you can work on to learn!  These are in CTF (Capture the Flag) style, in which you must find the "flag".
 
 I highly recommend OverTheWire for this.  In fact, OverTheWire has many challenges - specifically to learn Linux, start with "Bandit".
