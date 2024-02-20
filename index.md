@@ -21,6 +21,7 @@ This repo is both structured and un-structured - I mean this in the sense that w
 
 Disclaimer: the resources I’m sharing are not my own and I’m not claiming any credit for them - simply sharing them so others can make use of them :)
 
+<!--
 # Table of Contents
 
 [0_Documentation](./0_Documentation.md)\
@@ -33,3 +34,4 @@ Disclaimer: the resources I’m sharing are not my own and I’m not claiming an
 [Coding](Coding.md)\
 [Education](Education.md)\
 [Fun Projects For Practice and Other Useful Things](Fun-Projects-For-Practice-and-Other-Useful-Things.md)
+-->
