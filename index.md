@@ -28,6 +28,7 @@ Disclaimer: the resources I’m sharing are not my own and I’m not claiming an
 [2_Virtual Machines](2_Virtual-Machines.md)\
 [3_Operating Systems](3_Operating-Systems.md)\
 [4_Useful Tools](4_Useful-Tools.md)\
+[Linux](Linux.md)\
 [Coding](Coding.md)\
 [Education](Education.md)\
 [Fun Projects For Practice and Other Useful Things](Fun-Projects-For-Practice-and-Other-Useful-Things)
