@@ -19,6 +19,10 @@ This repo is both structured and un-structured - I mean this in the sense that w
 
 (If it was me, and I could go back in time - after I did the numbered sections, I would start with Linux > Coding > Scripting > Education)
 
+To start, here's a fantastical resource that shows roadmaps:
+- https://roadmap.sh/
+"roadmap.sh is a community effort to create roadmaps, guides and other educational content to help guide developers in picking up a path and guide their learnings."
+
 Disclaimer: the resources I’m sharing are not my own and I’m not claiming any credit for them - simply sharing them so others can make use of them :)
 
 <!--

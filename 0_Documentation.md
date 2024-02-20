@@ -10,22 +10,22 @@ Help others who might face the same problem set or be interested in learning the
 
 Here's some tools you can use to document things.
 
-**Obsidian**
-Free
-https://obsidian.md/
+### **Obsidian**
+**Free**
+- https://obsidian.md/
 
-**Medium**
-Free
-https://medium.com/
+### **Medium**
+**Free**
+- https://medium.com/
 
-**Microsoft OneNote**
-Free online
-https://www.microsoft.com/en-us/microsoft-365/onenote/digital-note-taking-app
+### **Microsoft OneNote**
+**Free online**
+- https://www.microsoft.com/en-us/microsoft-365/onenote/digital-note-taking-app
 
-**GitHub**
-Free
-https://github.com
+### **GitHub**
+**Free**
+- https://github.com
 
-**LinkedIn**
-Free
-https://linkedin.com
+### **LinkedIn**
+**Free**
+- https://linkedin.com

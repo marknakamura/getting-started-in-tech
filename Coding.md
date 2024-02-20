@@ -1,7 +1,7 @@
 # Coding
 No one is saying that you need to be a developer.
 
-HOWEVER
+**HOWEVER**
 
 Having a general knowledge of coding is incredibly important.  It can help you automate certain tasks (that would manually take quite a bit of time), analyze things like malware, understand vulnerabilities and attack techniques, etc.
 
@@ -13,14 +13,14 @@ Here's some resources to help you get started with coding.
 
 print("Hello World!")
 
-**Sololearn**
+### **Sololearn**
 Free, has mobile app
-https://www.sololearn.com/learn/courses/python-introduction
+- https://www.sololearn.com/learn/courses/python-introduction
 
-**Code Academy**
+### **Code Academy**
 Free, has paid options
-https://www.codecademy.com/
+- https://www.codecademy.com/
 
-**Code Wars**
+### **Code Wars**
 Achieve mastery through challenge, free
-https://www.codewars.com/
+- https://www.codewars.com/

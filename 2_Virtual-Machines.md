@@ -14,14 +14,14 @@ One of the most important capabilities being able to take "snapshots".  Snapshot
 
 Here's some virtualization software solutions for home users that are definitely worth checking out.
 
-**Oracle Virtualbox**
-Free
-https://www.virtualbox.org/
+### **Oracle Virtualbox**
+**Free**
+- https://www.virtualbox.org/
 
-**VMware Player / Workstation**
-Player - Free, Workstation - Requires license
-https://www.vmware.com/products/workstation-player.html
+### **VMware Player / Workstation**
+**Player - Free, Workstation - Requires license**
+- https://www.vmware.com/products/workstation-player.html
 
-**Proxmox**
-Free
-https://www.proxmox.com/en/
+### **Proxmox**
+**Free**
+- https://www.proxmox.com/en/

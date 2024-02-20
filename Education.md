@@ -19,15 +19,14 @@ https://pauljerimy.com/security-certification-roadmap/
 
 ![cyber roadmap](https://user-images.githubusercontent.com/57322698/221752265-03b695ed-d677-4aa4-9db4-39e7316a6801.png)
 
-
 One of the certifications that many people recommend to start out with is CompTIA's Security+.  It has a great baseline of information that any professional (cybersecurity or otherwise, should know).
 
 Here's some free / cheap resources that can be useful:
 
-**Professor Messer**
+### **Professor Messer**
 Free, Youtube videos - not just Security+ but other CompTIA certification content
-https://www.youtube.com/watch?v=9NE33fpQuw8&list=PLG49S3nxzAnkL2ulFS3132mOVKuzzBxA8
+- https://www.youtube.com/watch?v=9NE33fpQuw8&list=PLG49S3nxzAnkL2ulFS3132mOVKuzzBxA8
 
-**Pocket Prep**
+### **Pocket Prep**
 Cheap, certification exam practice questions - website and mobile application available
-https://www.pocketprep.com/exams/comptia-security/
+- https://www.pocketprep.com/exams/comptia-security/
