@@ -1,123 +1,25 @@
----
-layout: default
----
+So you’ve made it to this repository - either I’ve shared this with you or someone else has shared this with you or maybe you found this via the Googles.
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+Either way, I’m glad you’re here!
+
+What is this repo? This is designed to contain resources to begin learning technical skills.
+
+What is this repo not? It is not a walkthrough or step-by-step instruction on how to perform every task. The focus is to learn and develop good habits (like Googling for the answer :) ).
+
+Maybe you don’t know if you want to be Blue Team or Red Team or Purple Team. Maybe you don’t know if you want to be a SOC Analyst, Incident Responder, Digital Forensicator, Penetration Tester, Vulnerability Analyst, Web App Security Tester, etc.
+
+That’s ok!
+
+Here’s some places where you can start learning technical skills such as coding, scripting, virtual machines, etc.
+
+When it comes to cost, my goal is to share resources that are free or cheap. Learning doesn’t have to be expensive!
+
+This repo is both structured and un-structured - I mean this in the sense that when the names of the sections have numbers in them, I put them in this order because it makes the most sense to me. Once the “numbered” sections are completed, then start looking at the non-numbered sections. For the non-numbered sections, you can do them as it makes sense to you and as you please.
+
+(If it was me, and I could go back in time - after I did the numbered sections, I would start with Linux > Coding > Scripting > Education)
+
+Disclaimer: the resources I’m sharing are not my own and I’m not claiming any credit for them - simply sharing them so others can make use of them :)
 
 [Link to another page](./another-page.html).
 
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+[0_Documentation](./0_Documentation.md)
