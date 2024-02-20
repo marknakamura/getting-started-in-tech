@@ -1,3 +1,4 @@
+# Introduction 
 So you’ve made it to this repository - either I’ve shared this with you or someone else has shared this with you or maybe you found this via the Googles.
 
 Either way, I’m glad you’re here!
@@ -20,7 +21,7 @@ This repo is both structured and un-structured - I mean this in the sense that w
 
 Disclaimer: the resources I’m sharing are not my own and I’m not claiming any credit for them - simply sharing them so others can make use of them :)
 
-[Link to another page](./another-page.html).
+# Table of Contents
 
 [0_Documentation](./0_Documentation.md)
 [1_Community & Networking](1_Community-Neworking.md)
