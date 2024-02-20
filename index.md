@@ -23,3 +23,10 @@ Disclaimer: the resources I’m sharing are not my own and I’m not claiming an
 [Link to another page](./another-page.html).
 
 [0_Documentation](./0_Documentation.md)
+[1_Community & Networking](1_Community & Neworking.md)
+[2_Virtual Machines](2_Virtual-Machines.md)
+[3_Operating Systems](3_Operating-Systems.md)
+[4_Useful Tools)(4_Useful Tools.md)
+[Coding](Coding.md)
+[Education](Education.md)
+[Fun Projects For Practice and Other Useful Things](Fun Projects For Practice and Other Useful Things)
