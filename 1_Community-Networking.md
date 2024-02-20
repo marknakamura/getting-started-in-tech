@@ -14,23 +14,23 @@ Join community groups like your local DefCon (DC) group, Information Systems Sec
 Get started with some communications platforms:
 
 ### **Slack**
-**Free**\
-**Channels:**\
-- Open Source DFIR\
-- Volatility Community\
-- UnderTheWire\
+**Free**
+**Channels:**
+- Open Source DFIR
+- Volatility Community
+- UnderTheWire
 
 ### **Discord**
-**Free**\
-**Channels:**\
-- Raleigh ISSA\
-- Crows Nest Information Security\
-- VECTR\
-- Velociraptor\
-- Blue Team Village\
-- Adversary Village\
-- MalwareTech\
-- HackTheBox\
+**Free**
+**Channels:**
+- Raleigh ISSA
+- Crows Nest Information Security
+- VECTR
+- Velociraptor
+- Blue Team Village
+- Adversary Village
+- MalwareTech
+- HackTheBox
 
 ### **LinkedIn**
 **Free**
