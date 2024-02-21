@@ -3,7 +3,7 @@ Scripting comes in different flavors.
 
 Perhaps the main scripting languages are Powershell (Windows-native) and Bash (Linux-native).
 
-Just like coding, no one is asking you to be a full-fledged developer.
+Just like coding, no one is asking you to be an Iron Scripter.
 
 But I can say with 100000% certainty, that knowing some scripting will make your life so much easier.
 
