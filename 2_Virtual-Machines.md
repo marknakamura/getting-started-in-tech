@@ -16,12 +16,12 @@ Here's some virtualization software solutions for home users that are definitely
 
 ### **Oracle Virtualbox**
 **Free**
-- https://www.virtualbox.org/
+- [https://www.virtualbox.org/](https://www.virtualbox.org/){:target="_blank"}
 
 ### **VMware Player / Workstation**
 **Player - Free, Workstation - Requires license**
-- https://www.vmware.com/products/workstation-player.html
+- [https://www.vmware.com/products/workstation-player.html](https://www.vmware.com/products/workstation-player.html){:target="_blank"}
 
 ### **Proxmox**
 **Free**
-- https://www.proxmox.com/en/
+- [https://www.proxmox.com/en/](https://www.proxmox.com/en/){:target="_blank"}

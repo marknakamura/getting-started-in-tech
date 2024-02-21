@@ -13,9 +13,14 @@ In my opinion, it doesn't matter as long you're learning something from whatever
 
 However, with that being said, there is nothing wrong with pursuing paper creds.  In fact, I think one of the least thought about benefits of certifications or degrees is that they provide a clear goal and a definitive ending.
 
+If you were curious about what path you should take based on role or skill, check out roadmap.sh.
+
+"roadmap.sh is a community effort to create roadmaps, guides and other educational content to help guide developers in picking up a path and guide their learnings."
+- [roadmap.sh](https://roadmap.sh/){:target="_blank"}
+
 If you were curious about certifications, check out this map:
 
-https://pauljerimy.com/security-certification-roadmap/
+[https://pauljerimy.com/security-certification-roadmap/](https://pauljerimy.com/security-certification-roadmap/){:target="_blank"}
 
 ![cyber roadmap](https://user-images.githubusercontent.com/57322698/221752265-03b695ed-d677-4aa4-9db4-39e7316a6801.png)
 
@@ -25,8 +30,8 @@ Here's some free / cheap resources that can be useful:
 
 ### **Professor Messer**
 Free, Youtube videos - not just Security+ but other CompTIA certification content
-- https://www.youtube.com/watch?v=9NE33fpQuw8&list=PLG49S3nxzAnkL2ulFS3132mOVKuzzBxA8
+- [https://www.youtube.com/watch?v=9NE33fpQuw8&list=PLG49S3nxzAnkL2ulFS3132mOVKuzzBxA8](https://www.youtube.com/watch?v=9NE33fpQuw8&list=PLG49S3nxzAnkL2ulFS3132mOVKuzzBxA8){:target="_blank"}
 
 ### **Pocket Prep**
 Cheap, certification exam practice questions - website and mobile application available
-- https://www.pocketprep.com/exams/comptia-security/
+- [https://www.pocketprep.com/exams/comptia-security/](https://www.pocketprep.com/exams/comptia-security/){:target="_blank"}

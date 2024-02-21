@@ -13,14 +13,18 @@ Here's some resources to help you get started with coding.
 
 print("Hello World!")
 
+### **boot.dev**
+Free, has paid optoins
+- [https://www.boot.dev/](https://www.boot.dev/){:target="_blank"}
+
 ### **Sololearn**
 Free, has mobile app
-- https://www.sololearn.com/learn/courses/python-introduction
+- [https://www.sololearn.com/learn/courses/python-introduction](https://www.sololearn.com/learn/courses/python-introduction){:target="_blank"}
 
 ### **Code Academy**
 Free, has paid options
-- https://www.codecademy.com/
+- [https://www.codecademy.com/](https://www.codecademy.com/){:target="_blank"}
 
 ### **Code Wars**
 Achieve mastery through challenge, free
-- https://www.codewars.com/
+- [https://www.codewars.com/](https://www.codewars.com/){:target="_blank"}

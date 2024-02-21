@@ -34,4 +34,4 @@ Get started with some communications platforms:
 
 ### **LinkedIn**
 **Free**
-- https://www.linkedin.com/
+- [https://www.linkedin.com/](https://www.linkedin.com/){:target="_blank"}

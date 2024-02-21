@@ -11,14 +11,14 @@ Here's a resource that you can use to help you on your Linux journey :)
 
 ### **Linux Journey**
 Free, many easily digestible lessons on how to learn Linux
-- https://linuxjourney.com/
+- [https://linuxjourney.com/](https://linuxjourney.com/){:target="_blank"}
 
 Secondly, people have already made challenges that you can work on to learn!  These are in CTF (Capture the Flag) style, in which you must find the "flag".
 
 I highly recommend OverTheWire for this.  In fact, OverTheWire has many challenges - specifically to learn Linux, start with "Bandit".
 
 ### **OverTheWire Bandit**
-- https://overthewire.org/wargames/bandit/
+- [https://overthewire.org/wargames/bandit/](https://overthewire.org/wargames/bandit/){:target="_blank"}
 
 Will you get stuck?  Probably.
 
