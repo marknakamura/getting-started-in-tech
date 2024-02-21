@@ -12,20 +12,20 @@ Here's some tools you can use to document things.
 
 ### **Obsidian**
 **Free**
-- (https://obsidian.md/){:target="_blank"}
+- [](https://obsidian.md/){:target="_blank"}
 
 ### **Medium**
 **Free**
-- (https://medium.com/){:target="_blank"}
+- [](https://medium.com/){:target="_blank"}
 
 ### **Microsoft OneNote**
 **Free online**
-- (https://www.microsoft.com/en-us/microsoft-365/onenote/digital-note-taking-app){:target="_blank"}
+- [](https://www.microsoft.com/en-us/microsoft-365/onenote/digital-note-taking-app){:target="_blank"}
 
 ### **GitHub**
 **Free**
-- (https://github.com){:target="_blank"}
+- [](https://github.com){:target="_blank"}
 
 ### **LinkedIn**
 **Free**
-- (https://linkedin.com){:target="_blank"}
+- [](https://linkedin.com){:target="_blank"}
